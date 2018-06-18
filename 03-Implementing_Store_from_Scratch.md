@@ -39,7 +39,7 @@ const createStore = (reducer) => {
 
 };
 ```
-
+[EDIT] Besides a few minor details and edge cases and this is the implementation of the Redux Store!
 That's pretty much it!
 
 <p align="center">
